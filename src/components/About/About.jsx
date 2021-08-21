@@ -60,6 +60,7 @@ const About = () => {
                     </a>
                   </span>
                 )}
+               
               </div>
             </Fade>
           </Col>
